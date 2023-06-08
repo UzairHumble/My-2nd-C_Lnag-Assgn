@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Uzair Malik/Desktop/Opps-assigment-2",
-      "program": "c:/Users/Uzair Malik/Desktop/Opps-assigment-2/build/Debug/outDebug",
+      "cwd": "e:/University-All-imp-data-file-document/Uni-sems-2/OOPS/Opps-assigment-2",
+      "program": "e:/University-All-imp-data-file-document/Uni-sems-2/OOPS/Opps-assigment-2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
